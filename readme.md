@@ -11,8 +11,8 @@
 #### adicionar a primeira commit no projeto
 `git commit -m "adicionando a primeira commit"`
 #### adicionar o autor do projeto
-  git config --global user.email "kaiquefpaz@gmail.com"
-  git config --global user.name "arkutzin"
+  git config --global user.email 
+  git config --global user.name "
   #### fazendo push no repositorio remoto
   `git push -u origin main`
 #### adicinando todos os arquivos do repositorioo local
